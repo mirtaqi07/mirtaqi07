@@ -7,5 +7,31 @@ I have a diverse range of interests, including coding for mircrocontrollers, pla
 
 💻 **[Checkout My Website](https://mirtaqi.netlify.app)**
 
-[![mirtaqi's github stats](https://github-readme-stats.vercel.app/api?username=mirtaqi07&count_private=true&show_icons=true&theme=transparent&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+### How to reach me?
 
+<a href="https://instagram.com/taqimirtaqi">
+  <img align="left" alt="Insragram" width="35px" src="./resources/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/mirtaqi">
+  <img align="left" alt="LinkedIn" width="35px" src="./resources/linked.png" />
+</a>
+<a href="https://www.indeed.com/mirtaqi">
+  <img align="left" alt="Indeed" width="35px" src="./resources/indeed.png" />
+</a>
+<a href="https://fiverr.com/mirtaqi">
+  <img align="left" alt="Fiverr" width="35px" src="./resourcess/fiverr.png" />
+</a>
+<a href="https://upwork.com/mirtaqi">
+  <img align="left" alt="Upwork" width="35px" src="./resources/upwork.png" />
+</a>
+<a href="mailto:mirtaqi94@gmail.com">
+  <img align="left" alt="Mail" width="35px" src="./resources/gmail.png" />
+
+
+</br>
+</br>
+</br>
+
+<p align="center">
+<a href="http://www.github.com/mirtaqi07"><img src="https://github-readme-stats.vercel.app/api?username=mirtaqi07&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mirtaqi's GitHub stats" /></a>
+ </p>
