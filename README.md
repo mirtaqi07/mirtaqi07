@@ -4,6 +4,7 @@
 
 I have a diverse range of interests, including coding for mircrocontrollers, playing with motors, building robots *(not as advanced as Boston Dynamics :-)* and developing mobile/desktop/web applications. I have a passion for image processing, machine learning and artificial intelligence. During my free time, I enjoy taking on challenging projects that are unknown to me.
 
+Coding is my distraction, sometimes I write and I do Poetry.
 
 💻 **[Checkout My Website](https://mirtaqi.netlify.app)**
 
@@ -18,10 +19,10 @@ I have a diverse range of interests, including coding for mircrocontrollers, pla
 <a href="https://www.indeed.com/mirtaqi">
   <img align="left" alt="Indeed" width="35px" src="./resources/indeed.png" />
 </a>
-<a href="https://www.fiverr.com/mirtaqi">
+<a href="https://www.fiverr.com/qasimtaqi">
   <img align="left" alt="Fiverr" width="35px" src="./resources/fiverr.png" />
 </a>
-<a href="https://upwork.com/mirtaqi">
+<a href="https://upwork.com/freelancers/qasimtaqi">
   <img align="left" alt="Upwork" width="35px" src="./resources/upwork.png" />
 </a>
 <a href="mailto:mirtaqi94@gmail.com">
