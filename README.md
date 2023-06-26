@@ -1,6 +1,6 @@
 # 👋 Hello friend!
 
-Welcome to my blog! I'm **Mir Qasim Taqi** and I recentrly completed my Bachelor's of Science in **Mechatronics and Control Engineering** from **UET Lahore, Faisalabad campus**.
+ I'm **Mir Qasim Taqi** and I recently completed my Bachelor's of Science in **Mechatronics and Control Engineering** from **UET Lahore**.
 
 I have a diverse range of interests, including coding for mircrocontrollers, playing with motors, building robots *(not as advanced as Boston Dynamics :-)* and developing mobile/desktop/web applications. I have a passion for image processing, machine learning and artificial intelligence. During my free time, I enjoy taking on challenging projects that are unknown to me.
 
@@ -18,15 +18,14 @@ I have a diverse range of interests, including coding for mircrocontrollers, pla
 <a href="https://www.indeed.com/mirtaqi">
   <img align="left" alt="Indeed" width="35px" src="./resources/indeed.png" />
 </a>
-<a href="https://fiverr.com/mirtaqi">
-  <img align="left" alt="Fiverr" width="35px" src="./resourcess/fiverr.png" />
+<a href="https://www.fiverr.com/mirtaqi">
+  <img align="left" alt="Fiverr" width="35px" src="./resources/fiverr.png" />
 </a>
 <a href="https://upwork.com/mirtaqi">
   <img align="left" alt="Upwork" width="35px" src="./resources/upwork.png" />
 </a>
 <a href="mailto:mirtaqi94@gmail.com">
   <img align="left" alt="Mail" width="35px" src="./resources/gmail.png" />
-
 
 </br>
 </br>
