@@ -1,6 +1,6 @@
 # 👋 Hello friend!
 
- I'm **Mir Qasim Taqi** and I recently completed my Bachelor's of Science in **Mechatronics and Control Engineering** from **UET Lahore**.
+ I'm **Mir Qasim Taqi** and I have recently completed my Bachelor's of Science in **Mechatronics and Control Engineering** from **UET Lahore**. 
 
 I have a diverse range of interests including coding for mircrocontrollers, playing with motors, building robots *(not as advanced as Boston Dynamics :-)* and developing mobile/desktop/web applications. I have a passion for image processing, machine learning and artificial intelligence. During my free time, I enjoy doing complex projects that are unknown to me.
 
