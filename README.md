@@ -1,7 +1,5 @@
 # 👋 Hello, Friend!
 
-## Introduction
-
 I'm **Mir Qasim Taqi**, a recent graduate with a Bachelor's degree in **Mechatronics and Control Engineering** from **UET Lahore**. My journey has been a fascinating mix of creativity and technology, where I've explored a wide range of interests.
 
 ## Interests
@@ -23,7 +21,7 @@ I'm **Mir Qasim Taqi**, a recent graduate with a Bachelor's degree in **Mechatro
 - In my free time, I often find myself undertaking complex projects that challenge my skills and knowledge.
 - I'm not just a tech enthusiast; I'm also a poet and occasionally write poetry.
 
-## 🌐 [Checkout My Website](https://mirtaqi.netlify.app)
+### 🌐 [Checkout My Website](https://mirtaqi.netlify.app)
 
 ## How to reach me?
 
