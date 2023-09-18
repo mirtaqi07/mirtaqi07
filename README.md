@@ -27,17 +27,17 @@ I'm **Mir Qasim Taqi**, a recent graduate with a Bachelor's degree in **Mechatro
 
 ## How to reach me?
 
-- [Instagram](https://instagram.com/taqimirtaqi)
-  ![Instagram](./resources/instagram.png)
-
-- [LinkedIn](https://www.linkedin.com/in/mirtaqi)
-  ![LinkedIn](./resources/linked.png)
-
-- [Fiverr](https://www.fiverr.com/qasimtaqi)
-  ![Fiverr](./resources/fiverr.png)
-
-- [Upwork](https://upwork.com/freelancers/qasimtaqi)
-  ![Upwork](./resources/upwork.png)
-
-- [Email](mailto:mirtaqi94@gmail.com)
-  ![Email](./resources/gmail.png)
+<a href="https://instagram.com/taqimirtaqi">
+  <img align="left" alt="Insragram" width="35px" src="./resources/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/mirtaqi">
+  <img align="left" alt="LinkedIn" width="35px" src="./resources/linked.png" />
+</a>
+<a href="https://www.fiverr.com/qasimtaqi">
+  <img align="left" alt="Fiverr" width="35px" src="./resources/fiverr.png" />
+</a>
+<a href="https://upwork.com/freelancers/qasimtaqi">
+  <img align="left" alt="Upwork" width="35px" src="./resources/upwork.png" />
+</a>
+<a href="mailto:mirtaqi94@gmail.com">
+  <img align="left" alt="Mail" width="35px" src="./resources/gmail.png" />
