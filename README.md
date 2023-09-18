@@ -1,46 +1,43 @@
-# 💻 Hello Friend...
+# 👋 Hello, Friend!
 
-## 🚀 A Passionate Mechatronics & Control Engineer | Code Enthusiast
+## Introduction
 
-Hey there, I'm **Mir Qasim Taqi**, and I'm on a relentless quest to unravel the infinite possibilities of coding. 🌟
+I'm **Mir Qasim Taqi**, a recent graduate with a Bachelor's degree in **Mechatronics and Control Engineering** from **UET Lahore**. My journey has been a fascinating mix of creativity and technology, where I've explored a wide range of interests.
 
-## 💡 Igniting the Code Spark
+## Interests
 
-I breathe, dream, and live code. My fascination with technology runs deep, and I'm here to share the thrill of my coding adventures with you.
+- ### Coding and Microcontrollers
+  - I'm a passionate coder with a keen interest in working with microcontrollers.
 
-## 🌌 Coding Cosmos
+- ### Robotics Enthusiast
+  - While my robots might not be as advanced as Boston Dynamics creations, I absolutely enjoy building them!
 
-Welcome to my coding cosmos, where I explore a myriad of programming languages and technologies, including:
+- ### Software Development
+  - I'm not limited to hardware; I also dive into the world of mobile, desktop, and web application development.
 
-- **Languages:** C++, C#, Python, JavaScript, SQL
-- **Frameworks:** React, Flutter, Xamarin, WinForms
-- **Specialties:** Image Processing, Machine Learning, Microcontrollers
+- ### Artificial Intelligence
+  - I have a deep passion for image processing, machine learning, and artificial intelligence.
 
+## Hobbies
 
-## 💻 Building Digital Dreams
+- In my free time, I often find myself undertaking complex projects that challenge my skills and knowledge.
+- I'm not just a tech enthusiast; I'm also a poet and occasionally write poetry.
 
-I'm not just a code warrior; I'm a digital dreamer. With frameworks like React, Flutter, Xamarin, and WinForms, I shape digital dreams into reality.
+## 🌐 [Checkout My Website](https://mirtaqi.netlify.app)
 
-## 🤖 Mastering the Machines
+## How to reach me?
 
-Machine Learning and Image Processing are my playgrounds. I harness the magic of algorithms to create intelligent, data-driven solutions.
+- [Instagram](https://instagram.com/taqimirtaqi)
+  ![Instagram](./resources/instagram.png)
 
-## 🌟 Your Coding Inspiration
+- [LinkedIn](https://www.linkedin.com/in/mirtaqi)
+  ![LinkedIn](./resources/linked.png)
 
-If you're seeking a coding companion who shares your zest for technology, you've found your match. Together, we'll explore uncharted territories, solve complex puzzles, and innovate with code.
+- [Fiverr](https://www.fiverr.com/qasimtaqi)
+  ![Fiverr](./resources/fiverr.png)
 
-## 📝 Beyond the Code
+- [Upwork](https://upwork.com/freelancers/qasimtaqi)
+  ![Upwork](./resources/upwork.png)
 
-When I'm not knee-deep in code, I channel my creativity into writing and poetry. It's all about finding inspiration in the unexpected.
-
-## 🌐 Connect with Me
-
-Ready to dive into the code universe with me? Let's connect:
-
-- [![Instagram](./resources/instagram.png)](https://instagram.com/taqimirtaqi) [Instagram](https://instagram.com/taqimirtaqi)
-- [![LinkedIn](./resources/linked.png)](https://www.linkedin.com/in/mirtaqi) [LinkedIn](https://www.linkedin.com/in/mirtaqi)
-- [![Fiverr](./resources/fiverr.png)](https://www.fiverr.com/qasimtaqi) [Fiverr](https://www.fiverr.com/qasimtaqi)
-- [![Upwork](./resources/upwork.png)](https://upwork.com/freelancers/qasimtaqi) [Upwork](https://upwork.com/freelancers/qasimtaqi)
-- 📧 [Email Me](mailto:mirtaqi94@gmail.com)
-
-Join me on this electrifying coding journey, where every line of code is a stroke of genius waiting to be written. 🚀 Let's code our dreams to life!
+- [Email](mailto:mirtaqi94@gmail.com)
+  ![Email](./resources/gmail.png)
